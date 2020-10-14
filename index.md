@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Welcome - Bem-vindos
+This page serve as portfolio for my work.
+Esta página serve de portfólio para meu trabalho.
 
-You can use the [editor on GitHub](https://github.com/Germano123/asdderf.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Who am I? - Quem sou?
+Eu faço modelagem 3D com Blender e também sei unwrap UV, rig e os princípios básicos de animações. Consigo aplicar texturas e sei o básico de shaders.
+I do 3D modelling with Blender and also know UV unwrap, rig and animation principles. I can apply some texture and do the basics with shaders.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In programming I use Unity as principal game engine and I know the basics of GameMaker Studio 2, in addition I started to study Unreal. I consider myself a beginner with intermediate and advanced Unity (and) programming concepts (procedural generation, scriptable objects, object pooling, and knowledge of programming concepts for games).
+Em programação eu uso Unity como game engine principal e conheço o básico de GameMaker Studio 2, além de começar a estudar a Unreal. Me considero iniciante com conceitos intermediários e avançados de programação da Unity (geração procedural, scriptable objects, object pooling, e conhecimentos de conceitos de programação para jogos).
 
-### Markdown
+## Where you can find me? - Onde pode me encontrar?
+https://linktr.ee/asdderf
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### My projects - Meus projetos
+Currently I'm participating in a freelance project and not working in my personal projects (they're shelved)
+Atualmente estou participando de um projeto freelance e não estou trabalhando em meus projetos pessoais (estão engavetados)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Germano123/asdderf.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Games - Jogos
+- Love Simulator
+- Control Zone
+- The Loop Terror
